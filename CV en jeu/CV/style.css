@@ -1,0 +1,56 @@
+.nomprenom {
+    background-color: cornflowerblue;
+    background-size: contain;
+    text-align: center;
+    text-decoration: none;
+}
+
+#photo1 {
+    background-image: url("./Assets/photos/photos/image2.1.jpg");
+    background-size: cover;
+}
+
+.poste {
+    text-decoration-color: black;
+    text-align: center;
+    font-size: 300%;
+}
+
+.espacement {
+    word-spacing: 10cm;
+    text-align: center;
+}
+
+#photo2compet {
+    background-image: url("./Assets/photos/photos/htlmjscssboot.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: black;
+}
+
+.exp {
+    background-image: url("./Assets/photos/photos/expériences2020.jpeg");
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+    background-color:brown;
+}
+
+.forma {
+    background-image: url("./Assets/photos/photos/cvformation.jpeg");
+    background-size: 15%;
+    background-color: orangered;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+}
+
+#dive {
+    background-image: url("./Assets/photos/photos/cvdivers.jpeg");
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1cm;
+    background-color: black;
+}
